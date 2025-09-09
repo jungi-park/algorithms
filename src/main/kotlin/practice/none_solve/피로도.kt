@@ -1,6 +1,4 @@
-package practice
-
-import kotlin.math.max
+package practice.none_solve
 
 class 피로도Solution {
     fun solution(k: Int, dungeons: Array<IntArray>): Int {

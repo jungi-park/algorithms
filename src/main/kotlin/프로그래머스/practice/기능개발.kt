@@ -1,4 +1,4 @@
-package practice
+package 프로그래머스.practice
 
 /*
 * ArrayDeque는 addLast() 로 데이터를 넣고, last() 로 맨 위/뒤를 확인하고, removeLast() 로 맨 위/뒤를 제거하면 스택처럼 쓸 수 있어요.

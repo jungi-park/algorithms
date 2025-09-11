@@ -1,4 +1,4 @@
-package practice
+package 프로그래머스.practice
 /*
 * Int 자리수 범위는 0 ~ 65535 이기 때문에 스택오버플로우를 피하기 위해 나눠서 저장
 * */

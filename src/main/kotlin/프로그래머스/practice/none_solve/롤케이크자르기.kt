@@ -1,4 +1,4 @@
-package practice
+package 프로그래머스.practice.none_solve
 
 /*
 * slice()와 distinct()는 각각 O(N)에 가까운 연산을 수행할 수 있습니다. 이것이 N번 반복되는 for 루프 안에 들어있으므로

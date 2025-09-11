@@ -1,4 +1,4 @@
-package base
+package 프로그래머스.base
 
 class Solution {
     fun solution(number: Int, n: Int, m: Int): Int {

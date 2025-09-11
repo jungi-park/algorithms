@@ -1,4 +1,4 @@
-package practice
+package 프로그래머스.practice
 
 class JadenCase문자열만들기Solution {
     /**

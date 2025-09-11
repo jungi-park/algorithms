@@ -1,4 +1,4 @@
-package base
+package 프로그래머스.base
 
 class 나머지구하기Solution {
     fun solution(num1: Int, num2: Int): Int {

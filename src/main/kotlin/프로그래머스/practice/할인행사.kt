@@ -1,4 +1,4 @@
-package practice
+package 프로그래머스.practice
 
 class 할인행사Solution {
     fun solution(want: Array<String>, number: IntArray, discount: Array<String>): Int {

@@ -1,4 +1,4 @@
-package practice
+package 프로그래머스.practice
 
 class 최댓값과최솟값Solution {
     fun solution(s: String): String {

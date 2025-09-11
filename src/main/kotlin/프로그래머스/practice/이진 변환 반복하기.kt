@@ -1,4 +1,4 @@
-package practice
+package 프로그래머스.practice
 
 class 이진변환반복하기Solution {
     fun solution(s: String): IntArray {

@@ -1,4 +1,4 @@
-package practice.none_solve
+package 프로그래머스.practice.none_solve
 
 class 피로도Solution {
     fun solution(k: Int, dungeons: Array<IntArray>): Int {

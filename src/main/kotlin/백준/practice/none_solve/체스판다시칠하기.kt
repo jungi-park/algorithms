@@ -1,4 +1,4 @@
-package 백준.practice
+package 백준.practice.none_solve
 
 import kotlin.math.min
 
